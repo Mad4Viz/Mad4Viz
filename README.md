@@ -5,17 +5,20 @@
 - I’m always looking for opportunities to connect and collaborate.
 
 
-## ⭐ Data Viz Projects
+## ⭐ Tableau Visualisations
 
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/UXDesignPrinciples/LandingPage">
-    <img src="https://public.tableau.com/thumb/views/UXDesignPrinciples/LandingPage" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/UXDesignPrinciples/LandingPage" width ="30%">
+  </a>
+    <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/DeliverooHotspots/DeliverooHotspot">
+    <img src="https://public.tableau.com/thumb/views/DeliverooHotspots/DeliverooHotspot" width ="30%">
   </a>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valeriemadojemu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mad4Viz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCG2MdkQ_0SdiyP43qOknWrg) 
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+## 💻 Additiional Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
 
 
