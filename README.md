@@ -13,6 +13,10 @@
     <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/DeliverooHotspots/DeliverooHotspot">
     <img src="https://public.tableau.com/thumb/views/DeliverooHotspots/DeliverooHotspot" width ="30%">
   </a>
+    </a>
+    <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/MarvelMoviePerformancesMM2024W16/MarvelMoviePerformance">
+    <img src="https://public.tableau.com/thumb/views/MarvelMoviePerformancesMM2024W16/MarvelMoviePerformance" width ="30%">
+  </a>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valeriemadojemu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mad4Viz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCG2MdkQ_0SdiyP43qOknWrg) 
