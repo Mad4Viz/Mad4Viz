@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi, I'm Valerie 😀
+
+- I’m a freelance data analyst who thrives on transforming raw data into actionable insights using tools like [Tableau](https://public.tableau.com/app/profile/valerie.madojemu/vizzes), Alteryx and SQL. 
+- I specialise in creating dashboards, automating workflows, and delivering clear, impactful visualisations that empower decision-makers and solve real-world problems.
+- I enjoy sharing my projects and insights with others, showcasing how data can be used to drive meaningful results. Whether you're looking to improve your skills, explore new ideas, or collaborate, I’m always excited to connect and grow together.
+
 
 <!--
 **Mad4Viz/Mad4Viz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
