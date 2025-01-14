@@ -7,10 +7,10 @@
 
 ## ⭐ Tableau Visualisations
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/SuperstoreReturnsAnalysis_17368249639540/SuperstoreReturnAnalysis">
-    <img src="https://public.tableau.com/thumb/views/UXDesignPrinciples/LandingPage" width ="30%">
+    <img src="https://public.tableau.com/thumb/views/SuperstoreReturnsAnalysis_17368249639540/SuperstoreReturnAnalysis" width ="30%">
   </a>
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/UXDesignPrinciples/LandingPage">
-    <img src="https://public.tableau.com/thumb/views/SuperstoreReturnAnalysis" width ="30%">
+    <img src="https://public.tableau.com/thumb/views/UXDesignPrinciples/LandingPage" width ="30%">
   </a>
   <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/UIDesignPrinciples/LandingPage">
     <img src="https://public.tableau.com/thumb/views/UIDesignPrinciples/LandingPage" width ="30%">
