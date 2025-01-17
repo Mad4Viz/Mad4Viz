@@ -6,6 +6,9 @@
 
 
 ## ⭐ Tableau Visualisations
+<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/CustomerSegmentAnalysis_17371121939960/Overview">
+    <img src="https://public.tableau.com/thumb/views/CustomerSegmentAnalysis_17371121939960/Overview" width ="30%">
+  </a>
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/SuperstoreReturnsAnalysis_17368249639540/SuperstoreReturnAnalysis">
     <img src="https://public.tableau.com/thumb/views/SuperstoreReturnsAnalysis_17368249639540/SuperstoreReturnAnalysis" width ="30%">
   </a>
