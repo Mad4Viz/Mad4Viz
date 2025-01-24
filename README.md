@@ -31,7 +31,7 @@
 
 
 ## ⭐ ETL (Extract Transform Load) Projects
-[Python & API: Extraxting Resturant Location Data Using Google API Map](https://github.com/Mad4Viz/DeliverooHotspot)
+[Python & API: Resturant Location Data Using Google Maps API](https://github.com/Mad4Viz/DeliverooHotspot)
 
 
 
