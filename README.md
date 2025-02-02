@@ -30,6 +30,9 @@
     </a>
     <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/MarvelMoviePerformancesMM2024W16/MarvelMoviePerformance">
     <img src="https://public.tableau.com/thumb/views/MarvelMoviePerformancesMM2024W16/MarvelMoviePerformance" width ="30%">
+    </a>
+    <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/YoutubeTableauDashbaord_16998214873340/OverviewV2">
+    <img src="https://public.tableau.com/thumb/views/YoutubeTableauDashbaord_16998214873340/OverviewV2" width ="30%">
   </a>
 
 
