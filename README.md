@@ -6,6 +6,9 @@
 
 
 ## ⭐ Tableau Visualisations
+<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/Part1LinkedInPerformanceReviewDashboard/LinkedinDashboard">
+    <img src="https://public.tableau.com/thumb/views/Part1LinkedInPerformanceReviewDashboard/LinkedinDashboard" width ="30%">
+  </a>
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/HealthandFitnessOverview/OverviewDashboard2">
     <img src="https://public.tableau.com/thumb/views/HealthandFitnessOverview/OverviewDashboard2" width ="30%">
   </a>
