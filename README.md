@@ -6,6 +6,9 @@
 
 
 ## ⭐ Tableau Visualisations
+<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/ProfitandLoss_17509300867090/ProfitandLossDashboard">
+    <img src="https://public.tableau.com/thumb/views/ProfitandLoss_17509300867090/ProfitandLossDashboard" width ="30%">
+  </a>
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/Part1LinkedInPerformanceReviewDashboard/LinkedinDashboard">
     <img src="https://public.tableau.com/thumb/views/Part1LinkedInPerformanceReviewDashboard/LinkedinDashboard" width ="30%">
   </a>
