@@ -6,6 +6,9 @@
 
 
 ## ⭐ Tableau Visualisations
+<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/WinningTemplates/Dashboard">
+    <img src="https://public.tableau.com/thumb/views/WinningTemplates/Dashboard" width ="30%">
+  </a>
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/ProfitandLoss_17509300867090/ProfitandLossDashboard">
     <img src="https://public.tableau.com/thumb/views/ProfitandLoss_17509300867090/ProfitandLossDashboard" width ="30%">
   </a>
@@ -49,7 +52,8 @@
 
 
 ## ⭐ ETL (Extract Transform Load) Projects
-- [Python, API & Tableau: Resturant Location Data Using Google Maps API](https://github.com/Mad4Viz/DeliverooHotspot)
+- [Python, Notion & Tableau: Makeover of Lara Acsota Winning Template](https://github.com/Mad4Viz/Lara_Winning_Templates)
+- [Python, Google API & Tableau: Resturant Location Data Using Google Maps API](https://github.com/Mad4Viz/DeliverooHotspot)
 - [Python, Webscraping & Tableau: SKTRAX Top 10 Airlines Fleet Analysis](https://github.com/Mad4Viz/SKYTRAX-Airline-Alliance-and-Fleet-Analysis)
 - [Python, Webscraping & Tableau: Hockey League Fixtures and Results](https://github.com/Mad4Viz/Hockey_Fixtures_and_Results_2024-2025/blob/main/README.md) 
 
