@@ -6,6 +6,9 @@
 
 
 ## ⭐ Tableau Visualisations
+<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/DeliveryPerformance_17551745380910/MobileViewDashboard">
+    <img src="https://public.tableau.com/thumb/views/DeliveryPerformance_17551745380910/MobileViewDashboard" width ="30%">
+  </a>
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/WinningTemplates/Dashboard">
     <img src="https://public.tableau.com/thumb/views/WinningTemplates/Dashboard" width ="30%">
   </a>
