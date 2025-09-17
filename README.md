@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Valerie 😀
 - I’m a freelance data analyst who thrives on transforming raw data into actionable insights using tools like [Tableau](https://public.tableau.com/app/profile/valerie.madojemu/vizzes), Alteryx and SQL.
 - I specialise in creating dashboards, automating workflows, and delivering clear, impactful visualisations that empower decision-makers and solve real-world problems.
-- I enjoy sharing my projects and insights with others, showcasing how data can be used to drive meaningful results.
-- I’m always looking for opportunities to connect and collaborate.
+- For Contracting Roles, send me a message on [Linkedin](www.linkedin.com/in/valeriemadojemu), email valeriemfreelance@gmail.com or call ‭+447507 725838‬
 
 
 ## ⭐ Tableau Visualisations
