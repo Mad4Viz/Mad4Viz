@@ -5,6 +5,9 @@
 
 
 ## ⭐ Tableau Visualisations
+<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/DigitalMarketingLandingPage/LandingPage">
+    <img src="https://public.tableau.com/thumb/views/DigitalMarketingLandingPage/LandingPage" width ="30%">
+  </a>
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/CampaignPerformanceAnalysis_17579201773760/OrganicVsPaidDashboard">
     <img src="https://public.tableau.com/thumb/views/CampaignPerformanceAnalysis_17579201773760/OrganicVsPaidDashboard" width ="30%">
   </a>
