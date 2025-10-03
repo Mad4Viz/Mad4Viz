@@ -32,9 +32,6 @@
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/FleetInformationSkytraxTop10Airlines2024/SkyTraxTop10AirlinesHorizontal">
     <img src="https://public.tableau.com/thumb/views/FleetInformationSkytraxTop10Airlines2024/SkyTraxTop10AirlinesHorizontal" width ="30%">
   </a>
-<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/2025FinancialPlanner/PayDayTool">
-    <img src="https://public.tableau.com/thumb/views/2025FinancialPlanner/PayDayTool" width ="30%">
-  </a>
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/CustomerSegmentAnalysis_17371121939960/Overview">
     <img src="https://public.tableau.com/thumb/views/CustomerSegmentAnalysis_17371121939960/Overview" width ="30%">
   </a>
