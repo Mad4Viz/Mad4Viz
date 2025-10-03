@@ -4,6 +4,13 @@
 - For Contracting Roles, send me a message on [Linkedin](https://www.linkedin.com/in/valeriemadojemu), email valeriemfreelance@gmail.com or call ‭+447507 725838‬
 
 
+## ⭐ ETL (Extract Transform Load) Projects
+- [Python, Webscraping & Tableau: Hockey League Fixtures and Results](https://github.com/Mad4Viz/Hockey_Fixtures_and_Results_2024-2025/blob/main/README.md)
+- [Python, Webscraping & Tableau: SKTRAX Top 10 Airlines Fleet Analysis](https://github.com/Mad4Viz/SKYTRAX-Airline-Alliance-and-Fleet-Analysis)
+- [Python, Google API & Tableau: Resturant Location Data Using Google Maps API](https://github.com/Mad4Viz/DeliverooHotspot)
+- [Python, Notion & Tableau: Makeover of Lara Acosta Winning Template](https://github.com/Mad4Viz/Lara_Winning_Templates)
+
+
 ## ⭐ Tableau Visualisations
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/DigitalMarketingLandingPage/LandingPage">
     <img src="https://public.tableau.com/thumb/views/DigitalMarketingLandingPage/LandingPage" width ="30%">
@@ -44,15 +51,6 @@
   <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/UIDesignPrinciples/LandingPage">
     <img src="https://public.tableau.com/thumb/views/UIDesignPrinciples/LandingPage" width ="30%">
   </a>
-
-
-## ⭐ ETL (Extract Transform Load) Projects
-- [Python, Notion & Tableau: Makeover of Lara Acosta Winning Template](https://github.com/Mad4Viz/Lara_Winning_Templates)
-- [Python, Google API & Tableau: Resturant Location Data Using Google Maps API](https://github.com/Mad4Viz/DeliverooHotspot)
-- [Python, Webscraping & Tableau: SKTRAX Top 10 Airlines Fleet Analysis](https://github.com/Mad4Viz/SKYTRAX-Airline-Alliance-and-Fleet-Analysis)
-- [Python, Webscraping & Tableau: Hockey League Fixtures and Results](https://github.com/Mad4Viz/Hockey_Fixtures_and_Results_2024-2025/blob/main/README.md) 
-
-
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valeriemadojemu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mad4Viz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCG2MdkQ_0SdiyP43qOknWrg) 
