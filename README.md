@@ -14,7 +14,8 @@
 
 ## ⭐ Tableau Visualisations
 
-    Digital Marketing
+### Digital Marketing
+
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/ShopifyOverviewRAWNutritionConcept/ShopifyOverview">
     <img src="https://public.tableau.com/thumb/views/ShopifyOverviewRAWNutritionConcept/ShopifyOverview" width ="30%">
   </a>
@@ -31,7 +32,8 @@
     <img src="https://public.tableau.com/thumb/views/WinningTemplates/Dashboard" width ="30%">
   </a>  
 
-    Sports
+### Sports
+
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/HealthandFitnessOverview/OverviewDashboard2">
     <img src="https://public.tableau.com/thumb/views/HealthandFitnessOverview/OverviewDashboard2" width ="30%">
   </a>
@@ -39,12 +41,13 @@
     <img src="https://public.tableau.com/thumb/views/HamsteadWestminsterResultsandFixtures/FixturesResults" width ="30%">
   </a>
 
-    Finance 
+### Finance 
+
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/ProfitandLoss_17509300867090/ProfitandLossDashboard">
     <img src="https://public.tableau.com/thumb/views/ProfitandLoss_17509300867090/ProfitandLossDashboard" width ="30%">
   </a>
 
-    Retail
+### Retail
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/CustomerSegmentAnalysis_17371121939960/Overview">
     <img src="https://public.tableau.com/thumb/views/CustomerSegmentAnalysis_17371121939960/Overview" width ="30%">
   </a>
@@ -52,18 +55,18 @@
     <img src="https://public.tableau.com/thumb/views/SuperstoreReturnsAnalysis_17368249639540/SuperstoreReturnAnalysis" width ="30%">
   </a>
 
-    Aviation
+### Aviation
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/FleetInformationSkytraxTop10Airlines2024/SkyTraxTop10AirlinesHorizontal">
     <img src="https://public.tableau.com/thumb/views/FleetInformationSkytraxTop10Airlines2024/SkyTraxTop10AirlinesHorizontal" width ="30%">
   </a>
 
 
-    Mobile Dashboard  
+### Mobile Dashboard  
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/DeliveryPerformance_17551745380910/MobileViewDashboard">
     <img src="https://public.tableau.com/thumb/views/DeliveryPerformance_17551745380910/MobileViewDashboard" width ="30%">
   </a>
 
-    UI/UX
+### UI/UX
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/UXDesignPrinciples/LandingPage">
     <img src="https://public.tableau.com/thumb/views/UXDesignPrinciples/LandingPage" width ="30%">
   </a>
