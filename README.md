@@ -6,7 +6,7 @@
 
 ## ⭐ ETL (Extract Transform Load) Projects
 - [Shopify Overview (Raw Concept) - Python, SQL & Tableau](https://github.com/Mad4Viz/Shopify-Overview-Raw-Concept-)
-- [Match Fixtures and Results - Python, Webscraping & Tableau: ](https://github.com/Mad4Viz/Hockey_Fixtures_and_Results_2024-2025/blob/main/README.md)
+- [Match Fixtures and Results - Python, Webscraping & Tableau ](https://github.com/Mad4Viz/Hockey_Fixtures_and_Results_2024-2025/blob/main/README.md)
 - [SKTRAX Top 10 Airlines Fleet Analysis - Python, Webscraping & Tableau](https://github.com/Mad4Viz/SKYTRAX-Airline-Alliance-and-Fleet-Analysis)
 - [Restaurant Location Data Using Google Maps API - Python, Google API & Tableau](https://github.com/Mad4Viz/DeliverooHotspot)
 - [Makeover of Lara Acosta Winning Template - Python, Notion API & Tableau](https://github.com/Mad4Viz/Lara_Winning_Templates)
