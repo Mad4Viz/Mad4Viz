@@ -3,6 +3,10 @@
 - I specialise in creating dashboards, automating workflows, and delivering clear, impactful visualisations that empower decision makers and solve business problems.
 - For Contracting Roles, send me a message on [Linkedin](https://www.linkedin.com/in/valeriemadojemu), email valeriemfreelance@gmail.com or call ‭+447507 725838‬
 
+### Socail Media
+- View weekly tips LinkedIn ➡︎ [Linkedin](https://www.linkedin.com/in/valeriemadojemu)
+- View my dashboards on Tableau Public ➡︎ [Tableau Public](https://public.tableau.com/app/profile/valerie.madojemu/vizzes)
+
 
 ## ⭐ ETL (Extract Transform Load) Projects
 - [Shopify Overview (Raw Concept) - Python, SQL & Tableau](https://github.com/Mad4Viz/Shopify-Overview-Raw-Concept-)
