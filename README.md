@@ -1,14 +1,15 @@
 ## 👋 Hi, I'm Valerie 😀
 - I’m a freelance data analyst who transforms raw data into actionable insights using tools like [Tableau](https://public.tableau.com/app/profile/valerie.madojemu/vizzes), Alteryx and SQL.
 - I specialise in creating dashboards, automating workflows, and delivering clear, impactful visualisations that empower decision makers and solve business problems.
-- For Contracting Roles, send me a message on [Linkedin](https://www.linkedin.com/in/valeriemadojemu), email valeriemfreelance@gmail.com or call ‭+447507 725838‬
+- For Contracting Roles, send me a message on [LinkedIn](https://www.linkedin.com/in/valeriemadojemu), email valeriemfreelance@gmail.com or call ‭+447507 725838‬
 
-### Socail Media
+### Social Media
 - View weekly tips LinkedIn ➡︎ [Linkedin](https://www.linkedin.com/in/valeriemadojemu)
 - View my dashboards on Tableau Public ➡︎ [Tableau Public](https://public.tableau.com/app/profile/valerie.madojemu/vizzes)
 
 
-## ⭐ ETL (Extract Transform Load) Projects
+## ⭐ ETL & Tableau Projects
+- [Marketing Spend Sustainability Overview (Raw Concept) - Python, SQL & Tableau](https://github.com/Mad4Viz/Marketing-Spend-Sustainability-Overview)
 - [Shopify Overview (Raw Concept) - Python, SQL & Tableau](https://github.com/Mad4Viz/Shopify-Overview-Raw-Concept-)
 - [Match Fixtures and Results - Python, Webscraping & Tableau ](https://github.com/Mad4Viz/Hockey_Fixtures_and_Results_2024-2025/blob/main/README.md)
 - [SKTRAX Top 10 Airlines Fleet Analysis - Python, Webscraping & Tableau](https://github.com/Mad4Viz/SKYTRAX-Airline-Alliance-and-Fleet-Analysis)
