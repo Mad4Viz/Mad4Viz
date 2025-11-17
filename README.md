@@ -19,7 +19,9 @@
 ## ⭐ Tableau Visualisations
 
 ### Digital Marketing
-
+<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/MarketingSpendOverviewRAWNutritionConcept/MarketingSpendOverview">
+    <img src="https://public.tableau.com/thumb/views/MarketingSpendOverviewRAWNutritionConcept/MarketingSpendOverview" width ="30%">
+  </a>
 <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/ShopifyOverviewRAWNutritionConcept/ShopifyOverview">
     <img src="https://public.tableau.com/thumb/views/ShopifyOverviewRAWNutritionConcept/ShopifyOverview" width ="30%">
   </a>
