@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Valerie 😀
 - I’m a data analyst who builds data solutions for businesses.
 - I specialise in creating dashboards, automating workflows, and delivering clear, impactful visualisations that empower decision makers and solve business problems.
-- For Contracting Roles, send me a message on [LinkedIn](https://www.linkedin.com/in/valeriemadojemu), email valeriemfreelance@gmail.com or call ‭+447507 725838‬
+- For Contracting Roles, send me a message on [LinkedIn](https://www.linkedin.com/in/valeriemadojemu), email valeriemfreelance@gmail.com‬
 
 ### Social Media
 - View weekly tips LinkedIn ➡︎ [Linkedin](https://www.linkedin.com/in/valeriemadojemu)
