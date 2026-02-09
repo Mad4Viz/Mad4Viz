@@ -5,7 +5,7 @@
 
 ### Social Media
 - View weekly tips LinkedIn ➡︎ [Linkedin](https://www.linkedin.com/in/valeriemadojemu)
-- View my dashboards on Tableau Public ➡︎ [Tableau Public](https://public.tableau.com/app/profile/valerie.madojemu/vizzes)
+- View my portfolio ➡︎ [Website](https://mad4viz.github.io/ovm-analytics/index.html)
 
 
 ## ⭐ ETL & Tableau Projects
