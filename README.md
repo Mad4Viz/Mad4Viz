@@ -5,7 +5,7 @@
 
 ### Social Media
 - View weekly tips LinkedIn ➡︎ [Linkedin](https://www.linkedin.com/in/valeriemadojemu)
-- View my portfolio ➡︎ [Website](https://mad4viz.github.io/ovm-analytics/index.html)
+- View my portfolio ➡︎ [Portfolio](https://mad4viz.github.io/ovm-analytics/portfolio.html)
 
 
 ## ⭐ ETL & Tableau Projects
