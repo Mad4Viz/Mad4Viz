@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Valerie 😀
 - I’m a BI Consultant who builds data solutions for businesses.
 - I specialise in creating dashboards, automating workflows, and delivering clear, impactful visualisations that drives action.
-- Get in touch via [LinkedIn](https://www.linkedin.com/in/valeriemadojemu) or email valeriemfreelance@gmail.com‬
+- Get in touch via [LinkedIn](https://www.linkedin.com/in/valeriemadojemu) or email valerie@ovmanalytics.com
 
 ### Social Media
 - View weekly tips LinkedIn ➡︎ [Linkedin](https://www.linkedin.com/in/valeriemadojemu)
